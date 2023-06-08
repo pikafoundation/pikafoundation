@@ -14,11 +14,11 @@
   <a href="https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7">
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
-  <a href="https://github.com/pikafoundation/pikafoundation">
+<!--   <a href="https://github.com/pikafoundation/pikafoundation">
     <img src="..." width="150" height="auto" alt="pikafoundation profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
   </a>
   <a href="https://www.instagram.com/pikafoundation/" target="_blank">
     <img src="..." width="auto" height="133" alt="pikafoundation profile picture" style="vertical-align: top; margin-left: 15px;"/>
-  </a>
+  </a> -->
 </div>
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
