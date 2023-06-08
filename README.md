@@ -15,7 +15,7 @@
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
   <a href="https://github.com/pikafoundation/pikafoundation">
-    <img src="..." width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
+    <img src="..." width="150" height="auto" alt="pikafoundation profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
   </a>
   <a href="https://www.instagram.com/pikafoundation/" target="_blank">
     <img src="..." width="auto" height="133" alt="pikafoundation profile picture" style="vertical-align: top; margin-left: 15px;"/>
